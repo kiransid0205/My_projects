@@ -1,4 +1,3 @@
-# My_projects
 <h1 align='left'>
 Hello! Nice to see you 👋 
 </h1>
